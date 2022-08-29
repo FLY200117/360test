@@ -1,0 +1,38 @@
+.contenttop{
+    display: flex;
+    width: 800px;
+    margin-bottom: 10px;
+}
+
+.contenttop div{
+    padding: 0 20px;
+}
+
+.element { -ms-overflow-style: none; }
+
+.wrapper{
+    height: 490px;
+    overflow: hidden;
+}
+
+.maincontent{
+    padding: 0 10px;
+    display: flex;
+}
+
+.leftcontent{
+    width: 50%;
+    margin-right: 10px;
+}
+
+.rightcontent{
+    width: 50%;
+}
+
+.notecontent{
+    padding: 10px 10px 0;
+}
+
+.noteinfo{
+    padding: 10px;
+}
